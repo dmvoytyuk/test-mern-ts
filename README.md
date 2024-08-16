@@ -1,14 +1,14 @@
-npm i
+<p>npm i</p>
 
-cd client 
-npm i
+<p>cd client</p> 
+<p>npm i</p>
 
-cd ..
-cd server
-npm i
+<p>cd ..</p>
+<p>cd server</p>
+<p>npm i</p>
 
-cd ..
-npm run dev
+<p>cd ..</p>
+<p>npm run dev</p>
 
-http://localhost:3000/health
-http://localhost:5173/
+<p>http://localhost:3000/health</p>
+<p>http://localhost:5173/</p>
